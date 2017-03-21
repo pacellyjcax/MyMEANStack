@@ -5,10 +5,12 @@
   "dependencies": {
     "express": "^4.14.0",
     "mongoose": "^4.5.9",
-    "body-parser": "~1.17.1"
+    "body-parser": "~1.17.1",
+    "mysql": "~2.13.0",
+    "sequelize": "~3.30.2"
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node servidor/app.js"
+    "start": "node server/app.js"
   }
 }

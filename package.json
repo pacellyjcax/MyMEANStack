@@ -1,5 +1,5 @@
 {
-  "name": "OficinaServerSideMEAN",
+  "name": "MyMEAN",
   "version": "0.0.0",
   "main": "servidor/app.js",
   "dependencies": {

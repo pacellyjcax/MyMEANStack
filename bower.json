@@ -1,12 +1,12 @@
 {
-  "name": "OficinaServerSideMEAN",
-  "description": "",
+  "name": "MyMEANStack",
+  "description": "MySQL inside the MEAN Stack",
   "main": "app/app.js",
   "authors": [
     "Pacelly J. C. A. Xavier <pacellyjose@gmail.com>"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/pacellyjcax/OficinaClientSideMEAN",
+  "homepage": "https://github.com/pacellyjcax/MyMeanStack",
   "ignore": [
     "**/.*",
     "node_modules",

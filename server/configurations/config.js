@@ -6,7 +6,7 @@
 
 exports.Mongo = {
   // mongodb configurations
-  uri:'mongodb://localhost/OficinaServerSideMean'
+  uri = 'mongodb://localhost/MyMeanStack';
 };
 
 exports.MySQL = {
@@ -15,5 +15,5 @@ exports.MySQL = {
 exports.Server = {
   //'DEFAULT' DATA FOR THE SERVER
   address: '127.0.0.1',
-  port: 3000
+  var port: 3000
 };

@@ -3,10 +3,11 @@
   "version": "0.0.0",
   "main": "servidor/app.js",
   "dependencies": {
-    "express": "^4.14.0",
-    "mongoose": "^4.5.9",
     "body-parser": "~1.17.1",
+    "express": "^4.14.0",
+    "mongoose": "^4.9.3",
     "mysql": "~2.13.0",
+    "passport": "^0.3.2",
     "sequelize": "~3.30.2"
   },
   "devDependencies": {},
